@@ -4,5 +4,5 @@ jobs:
   init:
     runs-on: self-hosted
     steps:  
-      - run: echo "hello Howdy?"
+      - run: echo "hello Howdy1?"
       - run: echo "$HOSTNAME"
